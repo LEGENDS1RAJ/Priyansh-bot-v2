@@ -94,9 +94,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
        return api.sendMessage("Prefix Kon Lagayega garab insan? Pehle Prefix Lagao Fir Likho Sameer boss", threadID);
      };
      if ((event.body.toLowerCase() == "hi") || (event.body.toLowerCase() == "hello")) {
-       return api.sendMessage("꧁•🦋✨🍁❉‌‌্᭄...─┼
-〘हेलो मेरे जिगर के टुकड़ी कैसे हे आप महान आत्मा〙
-💚⟶‌‌𓆩〭〬༎🐰❉‌‌্᭄...꧂", threadID);
+       return api.sendMessage("꧁•🦋ʜᴇʟʟᴏ ᴍᴇʀɪ ᴊᴀᴀɴ", threadID);
      };
      if ((event.body.toLowerCase() == "ganda") || (event.body.toLowerCase() == "ganda bot")) {
        return api.sendMessage("️Tu ganda tera  pura khandan Ganda 😒😐:))))", threadID);
@@ -123,9 +121,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
      };
      if ((event.body.toLowerCase() == "inbox aa")) {return api.sendMessage("kab Sai Hoga ye system Har koi inbox 📥 Jana chata 😀🙄🙄 ", threadID);
      };
-      if ((event.body.toLowerCase() == "🍄")) {return api.sendMessage("꧁•🦋✨🍁❉‌‌্᭄...─┼
-〘जैसी सकल हे वैसे कम तेरे ये कुकुरमुत्ता ना भेज〙
-💚⟶‌‌𓆩〭〬༎🐰❉‌‌্᭄...꧂ 🍄 ", threadID);
+      if ((event.body.toLowerCase() == "🍄")) {return api.sendMessage("꧁•🦋✨ᴊᴇsɪ sᴀᴋᴀʟ ʜᴇ ᴡᴇsᴇ ᴋᴀᴍ ᴛᴇʀᴇ🍄»° 🐍🌒 ", threadID);
      };
               if ((event.body.toLowerCase() == "wow")) {return api.sendMessage("Thank you Apko bhi bot chahiya tOo 𝐒𝐀𝐌𝐄𝐄𝐑 se rabta karo👍👍💕" , threadID);
      };
