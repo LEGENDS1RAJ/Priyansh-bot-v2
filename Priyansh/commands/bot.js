@@ -220,7 +220,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
      };
 
      if ((event.body.toLowerCase() == "chup") || (event.body.toLowerCase() == "stop") || (event.body.toLowerCase() == "chup ho ja") || (event.body.toLowerCase() == "chup kar")) {
-       return api.sendMessage("──⃝͎̽😘⪼𝐍𝐀𝐇𝐈 𝐑𝐀𝐇𝐔𝐍𝐆𝐢 𝐂𝐇𝐔𝐏 𝐓𝐇𝐀𝐑𝐊𝐢 😼 𝐌𝐔𝐉𝐇𝐄 𝐁𝐎𝐋𝐍𝐀 𝐇𝐄.𝐌𝐄𝐑𝐀 𝐉𝐔𝐁𝐀𝐍. 𝐌 𝐁𝐎𝐋𝐔𝐍𝐆𝐢 𝐒𝐀𝐌𝐄𝐄𝐑 𝐊𝐎 𝐁𝐀𝐓𝐀𝐔 𝐊𝐈𝐘𝐀──⃝͎̽😈⪼ 🌿🙄🙄", threadID);
+       return api.sendMessage("──⃝͎̽😘⪼𝐍𝐀𝐇𝐈 𝐑𝐀𝐇𝐔𝐍𝐆𝐢 𝐂𝐇𝐔𝐏 𝐓𝐇𝐀𝐑𝐊𝐢 😼 𝐌𝐔𝐉𝐇𝐄 𝐁𝐎𝐋𝐍𝐀 𝐇𝐄 𝐌𝐄𝐑𝐀 𝐉𝐔𝐁𝐀𝐍 𝐌 𝐁𝐎𝐋𝐔𝐍𝐆𝐢 𝐒𝐀𝐌𝐄𝐄𝐑 𝐊𝐎 𝐁𝐀𝐓𝐀𝐔 𝐊𝐈𝐘𝐀──⃝͎̽😈⪼ 🌿🙄🙄", threadID);
      };
     if ((event.body.toLowerCase() == "bts") || (event.body.toLowerCase() == "btc")) {
        return api.sendMessage("Tu H Btc. Bhos DK", threadID);
