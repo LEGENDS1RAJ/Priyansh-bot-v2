@@ -4,7 +4,7 @@ module.exports.config = {
     version: "1.1.1",
         hasPermssion: 0,
         credits: "ARYAN", 
-        description: "THIS BOT IS ARYAN",
+        description: "THIS BOT IS SAMEER",
         commandCategory: "no prefix",
     cooldowns: 5, 
 };
