@@ -3,7 +3,7 @@ module.exports.config = {
   version: "1.0.0",
   hasPermssion: 2,
   credits: "PREM BABU",
-  description: "THIS BOT IS MR PREM BABU",
+  description: "THIS BOT IS MR SAMEER KHAN",
   usePrefix: true,
   commandCategory: "FYTER-2",
   usages: "FYT",
