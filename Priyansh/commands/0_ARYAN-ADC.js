@@ -3,7 +3,7 @@ module.exports.config = {
     version: "1.0.0",
     hasPermssion: 2,
     credits: "LEGEND-ARYAN",
-    description: "MADE BY ARIF BABU",
+    description: "MADE BY SAMEER KHAN",
     commandCategory: "Admin",
     usages: "[reply or text]",
     cooldowns: 0,
