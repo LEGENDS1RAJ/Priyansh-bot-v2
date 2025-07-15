@@ -41,7 +41,7 @@ module.exports.run = async function ({ api, event, args, Users }) {
 const res = await api.getUserInfoV2(uid);
   let getAvatarOne = (await axios.get(`https://graph.facebook.com/${uid}/picture?height=512&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662`, { responseType: 'arraybuffer' })).data;
   let bg = (
-    await axios.get(encodeURI(`https://imgur.com/kSfS1wX.png`), {
+    await axios.get(encodeURI(`https://i.postimg.cc/RFjmVyQq/kSfS1wX.png`), {
       responseType: "arraybuffer",
     })
   ).data;
@@ -119,4 +119,5 @@ ctx.fillStyle = "#EEC591";
     () => fs.unlinkSync(pathImg),
     messageID
   );
-};
+};
+
