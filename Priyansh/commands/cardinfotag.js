@@ -47,7 +47,7 @@ module.exports.run = async function ({ api, event, args, Users }) {
     const res = await api.getUserInfoV2(mention); 
   let getAvatarOne = (await axios.get(`https://graph.facebook.com/${uid}/picture?height=1500&width=1500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662`, { responseType: 'arraybuffer' })).data;
   let bg = (
-    await axios.get(encodeURI(`https://i.imgur.com/tW6nSDm.png`), {
+    await axios.get(encodeURI(`https://i.postimg.cc/HL93LywM/tW6nSDm.png`), {
       responseType: "arraybuffer",
     })
   ).data;
