@@ -52,7 +52,7 @@ module.exports.run = async function({ api, event, args, client, __GLOBAL }) {
 	var linkAvatar = (await api.getUserInfo(senderID))[senderID].thumbSrc;
 	if (!text) return api.sendMessage("Please put a message", threadID, messageID);
 	let getAvatar = (await axios.get(linkAvatar, { responseType: 'arraybuffer' })).data;
-	let getPorn = (await axios.get(`https://imgur.com/uN7Sllp.png`, { responseType: 'arraybuffer' })).data;
+	let getPorn = (await axios.get(`https://i.postimg.cc/XvzxRb4G/uN7Sllp.jpg`, { responseType: 'arraybuffer' })).data;
 	fs.writeFileSync(avatar, Buffer.from(getAvatar, 'utf-8'));
 	fs.writeFileSync(pathImg, Buffer.from(getPorn, 'utf-8'));
 	let image = await loadImage(avatar);
