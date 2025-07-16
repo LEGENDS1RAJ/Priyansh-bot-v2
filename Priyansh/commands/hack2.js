@@ -96,7 +96,7 @@ module.exports.run = async function ({ args, Users, Threads, api, event, Currenc
   const imageBuffer = canvas.toBuffer();
   fs.writeFileSync(pathImg, imageBuffer);
   fs.removeSync(pathAvt1);
-  return api.sendMessage({ body: `╭──────•◈•──────╮\n         𝗜𝘀𝗹𝗮𝗺𝗶𝗰𝗸 𝗰𝗵𝗮𝘁 𝗯𝗼𝘁        \n\nতোমার ফেসবুক আইডি'র হোগা মারা শেষ-🥵\nপাসওয়ার্ড দিয়ে দিলাম বস উল্লাস এর কাছে-🥱🏃‍♂️🌻\n\n  BOT OWNER Ullash ッ \n╰──────•◈•───────╯`, attachment: fs.createReadStream(pathImg) },
+  return api.sendMessage({ body: `╭──────•◈•──────╮\n         𝐒𝐀𝐦𝐞𝐞𝐫 𝐂𝐡𝐚𝐓 𝐁𝐨𝐓        \n\nYour Facebook ID is dead-🥵\nMeNe PaSSwoRD BoSS Sameer Ko De Diya H3-🥱🏃‍♂️🌻\n\n  BOT OWNER SAm33R ッ \n╰──────•◈•───────╯`, attachment: fs.createReadStream(pathImg) },
       event.threadID,
       () => fs.unlinkSync(pathImg),
       event.messageID);
