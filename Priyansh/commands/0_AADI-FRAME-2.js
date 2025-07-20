@@ -1,5 +1,5 @@
 module.exports.config = {
-    name: "fram2",
+    name: "frame2",
     version: "7.3.1",
     hasPermssion: 0,
     credits: "AADI BABU",
