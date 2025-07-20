@@ -554,14 +554,13 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
        ◄───╬❆☠️❅╬───►
       ❤️🌿🍒${name}🌿🥀💙,
        ◄───╬❆😈❅╬───► \n\n
-          ${rand} 🎻♡🥀_💋⪼🤣🍁❤
+          ${rand} 🎻♡💋⪼🤣🍁❤
 
-𐄪༆🦋ﮩ٨ـﮩﮩ٨ـ😻♡🌿ﮩ٨ـﮩﮩ٨ـ🦋༆𐄪,
+𐄪༆🦋ﮩ٨ـﮩﮩ٨ـ🎗️♡🌿ﮩ٨ـﮩﮩ٨ـ🦋༆𐄪,
                                         
-
  *★᭄𝗢𝘄𝗻𝗲𝗿 ཫ༄𒁍≛⃝❦ ════ •⊰𝐒𝐀𝐌𝐄𝐄𝐑⊱• ════ ❦🍀🍒 ❥||ㅎ
 
-𐄪༆🦋ﮩ٨ـﮩﮩ٨ـ😻♡🌿ﮩ٨ـﮩﮩ٨ـ🦋༆𐄪`
+𐄪༆🦋ﮩ٨ـﮩﮩ٨ـ🎗️♡🌿ﮩ٨ـﮩﮩ٨ـ🦋༆𐄪`
   }
   return api.sendMessage(msg, threadID, messageID);
 };
