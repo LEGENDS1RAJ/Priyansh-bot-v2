@@ -14,7 +14,7 @@ module.exports.handleEvent = function({ api, event, client, __GLOBAL }) {
 	var { threadID, messageID } = event;
 	if (event.body.indexOf(".bot")==0 || event.body.indexOf("#bot")==0 || event.body.indexOf("+bot")==0 || event.body.indexOf("$bot")==0) {
 		var msg = {
-				body: "✨● Hy ☆ Me ek bot hu  𝐁𝐨𝐭 𝐏𝐫𝐞𝐟𝐢𝐱 . 👈🏻 use .help2 for commands ✨ 🌹𝐌𝐚𝐝𝐞 𝐛𝐲 𝐌𝐑..𝐀𝐀𝐑𝐘𝐀𝐍🩷🪽 😊💫",
+				body: "✨● Hy ☆ Me ek bot hu  𝐁𝐨𝐭 𝐏𝐫𝐞𝐟𝐢𝐱 . 👈🏻 use .help2 for commands ✨ 🌹𝐌𝐚𝐝𝐞 𝐛𝐲 𝐌𝐑..𝐒𝐀𝐌𝟑𝟑𝐑🩷🪽 😊💫",
 			}
 			api.sendMessage( msg, threadID, messageID);
     api.setMessageReaction("💣", event.messageID, (err) => {}, true)
