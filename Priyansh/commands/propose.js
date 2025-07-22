@@ -37,7 +37,7 @@ async function bal(one, two) {
     const avtwo = await jimp.read(`https://graph.facebook.com/${two}/picture?width=512&height=512&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662`);
     avtwo.circle();
     const pth = "abcd.png";
-    const img = await jimp.read("https://i.imgur.com/MUMZez4.png");
+    const img = await jimp.read("https://i.postimg.cc/4ddTWsKX/MUMZez4.png");
     img.resize(1077, 718).composite(avone.resize(80, 80), 280, 200).composite(avtwo.resize(80, 80), 530, 365);
     await img.writeAsync(pth);
     return pth;
