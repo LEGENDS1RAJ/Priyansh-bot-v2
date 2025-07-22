@@ -53,7 +53,7 @@ module.exports.run = async function({ api, event, args }) {
   if (event.type == "message_reply") {
         text = event.messageReply.body}
 	if (!text) return api.sendMessage("Nhập nội dung cần viết !11", threadID, messageID);
-	let getPorn = (await axios.get(`https://i.postimg.cc/sxSkfXks/meme1.jpg`, { responseType: 'arraybuffer' })).data;
+	let getPorn = (await axios.get(`https://i.postimg.cc/P5gj2Wt5/meme1.jpg`, { responseType: 'arraybuffer' })).data;
 	fs.writeFileSync(pathImg, Buffer.from(getPorn, 'utf-8'));
 	let baseImage = await loadImage(pathImg);
 	let canvas = createCanvas(baseImage.width, baseImage.height);
