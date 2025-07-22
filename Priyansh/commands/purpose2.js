@@ -51,7 +51,7 @@ module.exports.run = async function({ api, event, args }) {
 	let pathImg = __dirname + '/cache/markngu.png';
 	var text = args.join(" ");
 	if (!text) return api.sendMessage("Enter Your Bla Bla", threadID, messageID);
-	let getPorn = (await axios.get(`https://i.postimg.cc/m21YYPVs/GvrPI6v.jpg`, { responseType: 'arraybuffer' })).data;
+	let getPorn = (await axios.get(`https://i.imghippo.com/files/UJ1131hic.jpeg`, { responseType: 'arraybuffer' })).data;
 	fs.writeFileSync(pathImg, Buffer.from(getPorn, 'utf-8'));
 	let baseImage = await loadImage(pathImg);
 	let canvas = createCanvas(baseImage.width, baseImage.height);
