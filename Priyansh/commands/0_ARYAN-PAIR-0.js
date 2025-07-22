@@ -68,7 +68,7 @@ module.exports.run = async function({ api, event, Threads, Users }) {
   imglove.push(fs.createReadStream(__dirname + "/cache/avt2.png"));
 
   var msg = {
-    body: `🌸=== 𝐎𝐰𝐧𝐞𝐫 ➻    𝐒𝐀𝐦𝐞𝐞𝐫 𝐊𝐡𝐀𝐧\n\n<   ❤_____🎻♡🥀_💋_____💋
+    body: `🌸=== 𝐎𝐰𝐧𝐞𝐫 ➻    𝐒𝐀𝐦𝐞𝐞𝐫 𝐊𝐡𝐀𝐧\n\n<   ❤_____🎻♡🥀_🎗️____💋
 
 🍒🐰•|____[🌺]~Kʌʌs  ɣɘʜ  Sʌpŋʌ  Bʜɩ Pʋɽʌ┣┫❍ JʌɣƏ____|•💜 |•_____🌿| 🧸❤️
 
