@@ -49,7 +49,7 @@ module.exports.run = async function ({ api, event, args, Users }) {
   let pathImg = __dirname + `/cache/cheems.png`;
   const text = args.join(" ").trim().replace(/\s+/g, " ").replace(/(\s+\|)/g, "|").replace(/\|\s+/g, "|").split("|");
   let getImage = (
-    await axios.get(encodeURI(`https://i.imgur.com/KkM47H9.png`), {
+    await axios.get(encodeURI(`https://i.imghippo.com/files/NNFi9733Hdc.png`), {
       responseType: "arraybuffer",
     })
   ).data;
