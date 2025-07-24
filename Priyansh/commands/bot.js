@@ -100,7 +100,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
        return api.sendMessage("️꧁•🦋✨🍁❉‌‌্᭄...─┼\n〘𝐓𝐔 𝐆𝐚𝐧𝐃𝐚 𝐓𝐞𝐑𝐚 𝐩𝐔𝐫𝐀 𝐊𝐡𝐚𝐧𝐃𝐚𝐧 𝐆𝐚𝐍𝐃𝐚〙\n💚⟶‌‌𓆩〭〬༎🐰❉‌‌্᭄...꧂", threadID);
      };
     if ((event.body.toLowerCase() == "🍁") || (event.body.toLowerCase() == "🍁🍁")) {
-       return api.sendMessage("꧁•🦋✨🍁❉‌‌্᭄...─┼\n〘ɣɛ̈ ɱɛ̈ɽ𝐢̄𝐢 ʝʌʌƞ ʝʌƞƞʌ𝗧 ßʌß𝞄⃕𝆺꯭𝅥𓆩K𝐢̄𝐢   Ғʌv❍ɽi͠𝗧ɛ̈〙\n💚⟶‌‌𓆩〭〬༎🐰❉‌‌্᭄...꧂", threadID);
+       return api.sendMessage("꧁•🦋✨🍁❉‌‌্᭄...─┼\n〘ɣɛ̈ ɱɛ̈ɽ𝐢̄𝐢 ʝʌʌƞ ʝʌƞƞʌ𝗧 ßʌß𝞄⃕𝆺꯭𝅥𓆩K𝐢̄𝐢 Ғʌv❍ɽi͠𝗧ɛ̈〙\n💚⟶‌‌𓆩〭〬༎🐰❉‌‌্᭄...꧂", threadID);
      };
        if ((event.body.toLowerCase() == "sameer Kon ho ap") || (event.body.toLowerCase() == "🤖")) {
        return api.sendMessage("️ I'm ROBOT 🤖 2.0 like chitti Robot😂", threadID, messageID);
@@ -262,7 +262,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
     if ((event.body.toLowerCase() == ".") || (event.body.toLowerCase() == "..")) {     return api.sendMessage("️️️💐𝐀𝐋𝐄 𝐌𝐄𝐑𝐈 𝐉𝐀𝐀𝐍 𝐂𝐎𝐌𝐌𝐀𝐍𝐃 𝐓𝐎 𝐒𝐀𝐇𝐈 𝐒𝐄 𝐋𝐈𝐊𝐇𝐎 𝐀𝐆𝐀𝐑 𝐍𝐀𝐇𝐈 𝐏𝐓𝐀 𝐓𝐎 𝐌𝐄𝐑𝐄 𝐁𝐎SS 𝐒𝐀𝐌𝐄𝐄𝐑 S𝐄 𝐏𝐔𝐂𝐇 𝐋𝐎💐", threadID);
      };
 
-    if ((event.body.toLowerCase() == "i love you") || (event.body.toLowerCase() == "love you")) {     return api.sendMessage("️️️ITNE MUJHE I LOVE YOU BOL RHI HO MERE BOSS S𝐀𝐌EE𝐑 KHAN URF S𝐀𝐌I KO BOLO BAHUT HI ACHA BNDA HAI MERA BOSS ", threadID);
+    if ((event.body.toLowerCase() == "i love you") || (event.body.toLowerCase() == "love you")) {     return api.sendMessage("️️️꧁•🦋✨🍁❉‌‌্᭄...─┼\n〘ɪ̽ ɭ❍vɛ̈ ɣσu †σ ɱɣ ɭØvɘ uɱɱɑ̽ɧ ɱɛ̈ɽɪ̽ ʝɑ̽ɑ̽ŋ͢〙\n💚⟶‌‌𓆩〭〬༎🐰❉‌‌্᭄...꧂", threadID);
      };
     if ((event.body.toLowerCase() == "i miss you") || (event.body.toLowerCase() == "miss you")) {     return api.sendMessage("️️️꧁•🦋✨🍁❉‌‌্᭄...─┼\n〘ıı ɱɪ̽ɪ̽ʂʂ ɣσ፝֟͜͡ʊ͛ †σ ɱɣ ɭσvɛ̈ ʊ͛ɱɱʌʌɧ ßɑ̽ßɣ〙\n💚⟶‌‌𓆩〭〬༎🐰❉‌‌্᭄...꧂", threadID);
      };
