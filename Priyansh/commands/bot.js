@@ -199,8 +199,8 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
        return api.sendMessage("Sameer Khan 𝐔𝐫𝐟 Sam   ❤️ My Creator. He loves me & Edit Me Daily. Ye Bot Sirf Owner k Liye h. Mujhe Aap logo ko Hasane k liye banya gya h Toh Muh Latkaye Mat Rakkha Karo. Har Waqt Haste Raho.", threadID);
      };
 
-    if ((event.body.toLowerCase() == "tera admin kon hai") || (event.body.toLowerCase() == "bot ka admin kon hai")) {
-       return api.sendMessage("My admin is 𝐒𝐚𝐦𝐞𝐞𝐫 𝐊𝐇𝐚𝐧. He Gives his name mr 𝐒𝐚𝐦 everywhare", threadID);
+    if ((event.body.toLowerCase() == "🖤") || (event.body.toLowerCase() == "🖤🖤")) {
+       return api.sendMessage("꧁•🦋✨🍁❉‌‌্᭄...─┼\n〘𝐉𝐄𝐒𝟑 𝐓𝐔 𝐖𝐄𝐒𝐄 𝐘𝐄 𝐓𝐄𝐑𝐀 𝐃𝐈𝐋 𝐊𝐀𝐋𝐀〙\n💚⟶‌‌𓆩〭〬༎🐰❉‌‌্᭄...꧂", threadID);
      };
 
      if ((event.body.toLowerCase() == "acha") || (event.body.toLowerCase() == "acha ji")) {
@@ -282,7 +282,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
     if ((event.body.toLowerCase() == "😏")) {return api.sendMessage("꧁•🦋✨🍁❉‌‌্᭄...─┼\n〘𝐂𝐡𝐚𝐋𝐋 𝐇𝐚𝐓𝐓 𝐌𝐞𝐑𝐞 𝐒𝐀𝐦𝐧𝐞 𝐌𝐚𝐓 𝐢𝐓𝐑𝐀 𝐘𝐞 𝐓𝐞𝐃𝐡𝐚 𝐦𝐔𝐡 𝐋𝐞𝐊𝐑〙\n💚⟶‌‌𓆩〭〬༎🐰❉‌‌্᭄...꧂", threadID);
      };
 
-    if ((event.body.toLowerCase() == "😤")) {return api.sendMessage("꧁•🦋✨🍁❉‌‌্᭄...─┼\n〘𝐍𝐚𝐊 𝐒𝐞 𝐁𝐡𝐢 𝐃𝐡𝐔𝐚 𝐍𝐢𝐊𝐚𝐋𝐓𝐚 𝐇𝐞 𝐖𝐚𝐀𝐡〙\n💚⟶‌‌𓆩〭〬༎🐰❉‌‌্᭄...꧂", threadID);
+    if ((event.body.toLowerCase() == "😤")) {return api.sendMessage("꧁•🦋✨🍁❉‌‌্᭄...─┼\n〘𝐘𝐄 𝐁𝐔𝐋𝐋 𝐉𝐄𝐒𝐀 𝐌𝐔𝐇 𝐍𝐀 𝐁𝐀𝐍𝐀 𝐂𝐇𝐎𝐌𝐔〙\n💚⟶‌‌𓆩〭〬༎🐰❉‌‌্᭄...꧂", threadID);
      };
 
     if ((event.body.toLowerCase() == "☺️")) {return api.sendMessage("꧁•🦋✨🍁❉‌‌্᭄...─┼\n〘𝐒𝐚𝐑𝐚𝐅𝐚𝐓 𝐒𝐞 𝐦𝐔𝐬𝐊𝐔𝐑𝐚 𝐑𝐚𝐇𝐞 𝐇𝐎 𝐉𝐚𝐧𝐞𝐌𝐚𝐧𝐧〙\n💚⟶‌‌𓆩〭〬༎🐰❉‌‌্᭄...꧂", threadID);
@@ -453,7 +453,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
   if ((event.body.toLowerCase() == "🙈")) {return api.sendMessage("𝐒𝐚𝐂𝐡 𝐌𝐞 𝐁𝐚𝐧𝐃𝐚𝐑 𝐇𝐢 𝐇𝐞 𝐀𝐣 𝐏𝐚𝐓𝐚 𝐂𝐡𝐀𝐋𝐚 𝐦𝐔𝐣𝐡𝐞", threadID);
      };
 
-    if ((event.body.toLowerCase() == "🖤")) {return api.sendMessage("___)Ankho__🌿__m__🍒__pyar__💦dil___❣️__me__💥___khumar___🌹___pyar____🌿___toh____😴___nhi___💥___kar___🌿___mujhse____🌿🌹❣️__________________?🥰❣️❣️🥰❤️‍🩹 ", threadID);
+    if ((event.body.toLowerCase() == "🔥")) {return api.sendMessage("꧁•🦋✨🍁❉‌‌্᭄...─┼\n〘𝐊𝐚𝐡𝐚 𝐀𝐆 𝐋𝐚𝐆𝐚𝐊𝐞 𝐀𝐘𝐚 𝐇𝟑 𝐏𝐚𝐆𝐚𝐋 𝐈𝐧𝐒𝐚𝐧𝐞〙\n💚⟶‌‌𓆩〭〬༎🐰❉‌‌্᭄...꧂", threadID);
      };
 
   if ((event.body.toLowerCase() == "😄")) {
