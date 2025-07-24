@@ -129,7 +129,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
      };
         if ((event.body.toLowerCase() == "😿")) {return api.sendMessage("꧁•🦋✨🍁❉‌‌্᭄...─┼\n〘𝐁𝐢𝐋𝐋𝐢𝐘𝐀 𝐊𝐚𝐁𝐬𝐄 𝐑𝐨𝐧𝐞 𝐋𝐚𝐆𝐢 𝐀𝐳𝐞𝐞𝐁 𝐇𝐞 𝐘𝐚𝐑〙\n💚⟶‌‌𓆩〭〬༎🐰❉‌‌্᭄...꧂", threadID);
      };
-      if ((event.body.toLowerCase() == "😊")) {return api.sendMessage("꧁•🦋✨🍁❉‌‌্᭄...─┼\n〘𝐖𝐚𝐡 𝐊𝐢𝐘𝐀 𝐦𝐔𝐬𝐊𝐮𝐑𝐚𝐡𝐀𝐓 𝐇𝐞 𝐀𝐩𝐊𝐢〙\n💚⟶‌‌𓆩〭〬༎🐰❉‌‌্᭄...꧂", threadID);
+      if ((event.body.toLowerCase() == "😊")) {return api.sendMessage("꧁•🦋✨🍁❉‌‌্᭄...─┼\n〘𝐒𝐚𝐑𝐚𝐅𝐚𝐓 𝐒𝐞 𝐦𝐔𝐬𝐊𝐔𝐑𝐚 𝐑𝐚𝐇𝐞 𝐇𝐎 𝐉𝐚𝐧𝐞𝐌𝐚𝐧𝐧〙\n💚⟶‌‌𓆩〭〬༎🐰❉‌‌্᭄...꧂", threadID);
      };
                 if ((event.body.toLowerCase() == "😯")) {return api.sendMessage("꧁•🦋✨🍁❉‌‌্᭄...─┼\n〘𝐌𝐮𝐡 𝐌𝐞 𝐌𝐚𝐊𝐡𝐢 𝐆𝐡𝐔𝐬 𝐉𝐚𝐘𝐞𝐆𝐢 𝐘𝐚𝐑 𝐁𝐚𝐧𝐃 𝐊𝐚𝐑〙\n💚⟶‌‌𓆩〭〬༎🐰❉‌‌্᭄...꧂", threadID);
                };
@@ -152,7 +152,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
      };
      if ((event.body.toLowerCase() == "🤭")) {return api.sendMessage("꧁•🦋✨🍁❉‌‌্᭄...─┼\n〘𝐄𝐒𝐚 𝐊𝐚𝐦 𝐍𝐚 𝐊𝐚𝐑𝐎 𝐉𝐢𝐒 𝐒𝐞 𝐌𝐮𝐡 𝐂𝐡𝐔𝐩𝐀𝐧𝐚 𝐏𝐚𝐃𝐞〙\n💚⟶‌‌𓆩〭〬༎🐰❉‌‌্᭄...꧂", threadID);
      };
-       if ((event.body.toLowerCase() == "🥹")) {return api.sendMessage("【＿ 𝐊𝐲𝐀 𝐊𝐲𝐀 , 𝐑𝐨 𝐊𝐲𝐔 𝐑𝐞𝐇𝐞 𝐇𝐨 , 𝐌𝐞 𝐇𝐮 𝐍𝐚 𝐓𝐨 𝐅𝐡𝐈𝐚 𝐊𝐲𝐔 𝐑𝐨𝐍𝐚 . 𝐑𝐮𝐊𝐨 𝐌𝐞 𝐀𝐛𝐇𝐢 𝐂𝐡𝐎𝐜𝐎𝐥𝐀𝐭𝐄 𝐃𝐞𝐓𝐚 𝐇𝐮 𝐋𝐢𝐊𝐡𝐎 🍫  ☞Chocolate☜ ＿】 ", threadID);
+       if ((event.body.toLowerCase() == "👊")) {return api.sendMessage("꧁•🦋✨🍁❉‌‌্᭄...─┼\n〘𝐄𝐤 𝐌𝐮𝐊𝐊𝟑 𝐌𝐞 𝐒𝐚𝐑𝐞 𝐃𝐚𝐍𝐭 𝐭𝐎𝐃 𝐃𝐮𝐧𝐆𝐚〙\n💚⟶‌‌𓆩〭〬༎🐰❉‌‌্᭄...꧂", threadID);
         };
     if ((event.body.toLowerCase() == "🤤")) {return api.sendMessage("꧁•🦋✨🍁❉‌‌্᭄...─┼\n〘𝐘 𝐋𝐚𝐑 𝐌𝐚𝐓 𝐭𝐀𝐩𝐊𝐚 𝐘𝐚𝐑 𝐔𝐋𝐭𝐢 𝐀𝐣𝐀𝐲𝐞𝐆𝐢 𝐦𝐔𝐣𝐡𝐞〙\n💚⟶‌‌𓆩〭〬༎🐰❉‌‌্᭄...꧂", threadID);
      };
@@ -175,7 +175,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
 
      if
   ((event.body.toLowerCase() == "morning") || (event.body.toLowerCase() == "good morning")) {
-       return api.sendMessage("꧁•🦋✨🍁❉‌‌্᭄...─┼\n〘𝐆𝐨𝐎𝐃 𝐌𝐨𝐑𝐧𝐢𝐧𝐆 𝐆♡𝐃 𝐁𝐋𝐞𝐒𝐬 𝐘♡𝐔 𝐉𝐚𝐀𝐧𝐔〙\n💚⟶‌‌𓆩〭〬༎🐰❉‌‌্᭄...꧂", threadID);
+       return api.sendMessage("🌬️⇥𝐆𝐎𝐎𝐃 𝐌𝐎𝐑𝐍𝐢𝐍𝐆 𝐆𝐎𝐃 𝐁𝐋𝐄𝐒𝐒 𝐘𝐎𝐔 𝐉𝐀𝐍𝐔 😻🌿😻", threadID);
      };
 
      if ((event.body.toLowerCase() == "Koi he") || (event.body.toLowerCase() == "Koi he kiya")) {
