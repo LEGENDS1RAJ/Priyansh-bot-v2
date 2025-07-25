@@ -450,7 +450,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
   if ((event.body.toLowerCase() == "🙉")) {return api.sendMessage("꧁•🦋✨🍁❉‌‌্᭄...─┼\n〘Sɑ̽c̬̽ɧ ɱɛ̈ ßɒɳ̊͢ɗɒɽ ɧi͠  ɧɚ ɱʊ͛ʝɧɛ̈ ʌʝ Ƥʌ†ɑ̽ c̬̽ɧɑ̽ɭɑ̽〙\n💚⟶‌‌𓆩〭〬༎🐰❉‌‌্᭄...꧂", threadID);
      };
 
-  if ((event.body.toLowerCase() == "🙈")) {return api.sendMessage("꧁•🦋✨🍁❉‌‌্᭄...─┼\n〘𝐓𝐔𝐦𝐒𝐞 𝐀𝐂𝐡𝐚 𝐓𝐨 𝐘𝐞 𝐁𝐚𝐍𝐃𝐚𝐑 𝐒𝐡𝐀𝐑𝐦𝐀 𝐋𝐞𝐓𝐞〙\n💚⟶‌‌𓆩〭〬༎🐰❉‌‌্᭄...꧂", threadID);
+  if ((event.body.toLowerCase() == "🙈")) {return api.sendMessage("꧁•🦋✨🍁❉‌‌্᭄...─┼\n〘†𝞄⃕ɱ𝗌ɘ ʌc̬̽ɧʌ †❍ ɣɘ ßɒƞ̊͢ɗʌɽ 𝗌ɧʌɽɱʌ ɭɘ†ɘ ɧɘ〙\n💚⟶‌‌𓆩〭〬༎🐰❉‌‌্᭄...꧂", threadID);
      };
 
     if ((event.body.toLowerCase() == "🔥")) {return api.sendMessage("꧁•🦋✨🍁❉‌‌্᭄...─┼\n〘𝐊𝐚𝐡𝐚 𝐀𝐆 𝐋𝐚𝐆𝐚𝐊𝐞 𝐀𝐘𝐚 𝐇𝟑 𝐏𝐚𝐆𝐚𝐋 𝐈𝐧𝐒𝐚𝐧𝐞〙\n💚⟶‌‌𓆩〭〬༎🐰❉‌‌্᭄...꧂", threadID);
