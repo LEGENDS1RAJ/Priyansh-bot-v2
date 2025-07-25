@@ -200,14 +200,14 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
      };
 
     if ((event.body.toLowerCase() == "🖤") || (event.body.toLowerCase() == "🖤🖤")) {
-       return api.sendMessage("꧁•🦋✨🍁❉‌‌্᭄...─┼\n〘ʝɛ̈Sɛ̈ 𝗧ʊ͛  ωɛ̈ʂɛ̈ ɣɘ ʈɛ̈r᩶ɑ̽ Kʌɭɑ̽ Ɗɪ̽ɭ ɱʊ͛n᪵᪳n᪵᪳i͠  ßʌƊn᪵᪳ɑ̽ɱ〙\n💚⟶‌‌𓆩〭〬༎🐰❉‌‌্᭄...꧂", threadID);
+       return api.sendMessage("꧁•🦋✨🍁❉‌‌্᭄...─┼\n〘ʝɘ𝗌e †u Ꮗɘ𝗌ɘ ɣɘ †ɘɽʌ Ɗi͠ɭ ƙʌɭʌ c̬̽ɧʌɭʌ ʝʌ ƙɑ̽ɭi͠ɣɘ〙\n💚⟶‌‌𓆩〭〬༎🐰❉‌‌্᭄...꧂", threadID);
      };
 
      if ((event.body.toLowerCase() == "acha") || (event.body.toLowerCase() == "acha ji")) {
        return api.sendMessage("꧁•🦋✨🍁❉‌‌্᭄...─┼\n〘ӈʌƞ G ɱɘɽɪ̽ ɳʌʂ❍ ɱɘ ßɘɧ†ʌ ɧ𝞄⃕ʌ ƙɧ𝞄⃕ɳ〙\n💚⟶‌‌𓆩〭〬༎🐰❉‌‌্᭄...꧂", threadID);
      };
      if ((event.body.toLowerCase() == "🥺") || (event.body.toLowerCase() == "🥹")) {
-       return api.sendMessage("꧁•🦋✨🍁❉‌‌্᭄...─┼\n〘ɑ̽ɭɛ፝֟͜͡ɛ ʌɭɛ፝֟͜͡ɛ ʌc̬̽ɧɛ̈ ßɒc̬̽ӈɛ̈ r᩶❍†ɛ̈ n᪵᪳ɑ̽ɧɪ̽ Kɪ̽ɣʌ c̬̽ɧɑ̽ɧi͠ɣɘ ɭØɭɪ̽Ƥɵ̥̽p᩶〙\n💚⟶‌‌𓆩〭〬༎🐰❉‌‌্᭄...꧂", threadID);
+       return api.sendMessage("꧁•🦋✨🍁❉‌‌্᭄...─┼\n〘ɑ̽ɭɛ፝֟͜͡ɛ ʌɭɛ፝֟͜͡ɛ ʌc̬̽ɧɛ̈ ßɒc̬̽ӈɛ̈ r᩶❍†ɛ̈ n᪵ɑ̽ɧɪ̽ Kɪ̽ɣʌ c̬̽ɧɑ̽ɧi͠ɣɘ ɭØɭɪ̽Ƥɵ̥̽p᩶〙\n💚⟶‌‌𓆩〭〬༎🐰❉‌‌্᭄...꧂", threadID);
      };
 
 
@@ -220,7 +220,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
      };
 
      if ((event.body.toLowerCase() == "chup") || (event.body.toLowerCase() == "stop") || (event.body.toLowerCase() == "chup ho ja") || (event.body.toLowerCase() == "chup kar")) {
-       return api.sendMessage("꧁•🦋✨🍁❉‌‌্᭄...─┼\n〘ɳʌɧıı r᩶ɑ̽ɧʊ͛ɳGıı c̬̽ӈup᩶ ƙʌɱʌ ƙɛ̈ ƙɧııɭɑ̽𝗧ʌ ӈɘ ƙııɣɑ̽ c̬̽ɧσɱu〙\n💚⟶‌‌𓆩〭〬༎🐰❉‌‌্᭄...꧂", threadID);
+       return api.sendMessage("꧁•🦋✨🍁❉‌‌্᭄...─┼\n〘ɳʌɧıı r᩶ɑ̽ɧuɳGıı c̬̽ӈup᩶ ƙʌɱʌ ƙɛ̈ ƙɧııɭɑ̽𝗧ʌ ӈɘ ƙııɣɑ̽ c̬̽ɧσɱu〙\n💚⟶‌‌𓆩〭〬༎🐰❉‌‌্᭄...꧂", threadID);
      };
     if ((event.body.toLowerCase() == "bts") || (event.body.toLowerCase() == "btc")) {
        return api.sendMessage("꧁•🦋✨🍁❉‌‌্᭄...─┼\n〘†ʊ͛ ɧɘ ß†S c̬̽ɧʌɭɑ̽ ʝʌ ßɧ❍𝗌Ɗi͠ƙɘ〙\n💚⟶‌‌𓆩〭〬༎🐰❉‌‌্᭄...꧂", threadID);
@@ -228,7 +228,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
 
 
      if ((event.body.toLowerCase() == "kuttiya") || (event.body.toLowerCase() == "kutta")) {
-       return api.sendMessage("꧁•🦋✨🍁❉‌‌্᭄...─┼\n〘Sʌɱɘ †❍ ɣ❍ʊ͛ Ɗ𝞄⃕ɽ fʌ††ɣ ɱ𝞄⃕ɧ †ɘɽɑ̽〙\n💚⟶‌‌𓆩〭〬༎🐰❉‌‌্᭄...꧂", threadID);
+       return api.sendMessage("꧁•🦋✨🍁❉‌‌্᭄...─┼\n〘Sʌɱɘ †❍ ɣ❍u Ɗ𝞄⃕ɽr fʌ††ɣ ɱ𝞄⃕ɧ †ɘɽɑ̽〙\n💚⟶‌‌𓆩〭〬༎🐰❉‌‌্᭄...꧂", threadID);
      };
 
      if ((event.body.toLowerCase() == "malik se bakchodi") || (event.body.toLowerCase() == "malik se backchodi") || (event.body.toLowerCase() == "malkin se bakchodi") || (event.body.toLowerCase() == "malkin se backchodi")) {
