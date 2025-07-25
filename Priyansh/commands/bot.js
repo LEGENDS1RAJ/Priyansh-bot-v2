@@ -72,10 +72,10 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
 
 
       if ((event.body.toLowerCase() == "🤗") || (event.body.toLowerCase() == "😌")) {
-       return api.sendMessage("꧁•🦋✨🍁❉‌‌্᭄...─┼\n〘†ʊ͛ ʝɣʌƊɑ̽ ɧ❍ʂɧɪ̽ɣɑ̽ɽ ßʌnKɘ ɳɑ̽ ̊͢ɗɘƙɧ ɱɘ ɧʊ͛ ɳʌʌ〙\n💚⟶‌‌𓆩〭〬༎🐰❉‌‌্᭄...꧂", threadID);
+       return api.sendMessage("꧁•🦋✨🍁❉‌‌্᭄...─┼\n〘†u ʝɣʌƊɑ̽ ɧ❍sɧɪ̽ɣɑ̽ɽ ɱʌ† ßʌƞ ɱɘ ɧʊ͛ ɳʌʌ〙\n💚⟶‌‌𓆩〭〬༎🐰❉‌‌্᭄...꧂", threadID);
      };
     if ((event.body.toLowerCase() == "Sameer") || (event.body.toLowerCase() == "sameer")) {
-       return api.sendMessage("꧁•🦋✨🍁❉‌‌্᭄...─┼\n〘ßσʂʂ ß𝞄⃕𝗌ɣ ӈ❍ɳgɘ ɱ𝞄⃕ʝɧ𝗌ɘ ßʌʌ𝗧 ƙɑ̽r᩶σ〙\n💚⟶‌‌𓆩〭〬༎🐰❉‌‌্᭄...꧂", threadID);
+       return api.sendMessage("꧁•🦋✨🍁❉‌‌্᭄...─┼\n〘ßσss ß𝞄⃕𝗌ɣ ӈ❍ɳge ɱ𝞄⃕ʝɧ𝗌ɘ ßʌʌ𝗧 ƙɑ̽r᩶σ〙\n💚⟶‌‌𓆩〭〬༎🐰❉‌‌্᭄...꧂", threadID);
      };
     if ((event.body.toLowerCase() == "janu") || (event.body.toLowerCase() == "jan")) {
        return api.sendMessage("꧁•🦋✨🍁❉‌‌্᭄...─┼\n〘ʝɑ̽ɑ̽ŋ͢ʊ͛ ɱɛ̈ ʂɪ̽r᩶Ғ Sɑ̽ɱɘɘɽ kīī ɧʊ͛ ʂʌɱʝɧɣ〙\n💚⟶‌‌𓆩〭〬༎🐰❉‌‌্᭄...꧂", threadID);
