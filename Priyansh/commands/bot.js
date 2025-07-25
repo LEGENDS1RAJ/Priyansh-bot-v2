@@ -299,7 +299,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
     if ((event.body.toLowerCase() == "😎😎😎")) {return api.sendMessage("꧁•🦋✨🍁❉‌‌্᭄...─┼\n〘c̬̽ɧɑ̽𝗌ɱɑ̽ ɧɑ̽ʈɑ̽σ n᪵᪳ɑ̽ 𝗌ɑ̽ɧɑ̽ß ƙɪ̽ɣɑ̽ n᪵᪳ɑ̽ɱɛ̈ ɧɛ̈ ɑ̽p᩶ƙɑ̽〙\n💚⟶‌‌𓆩〭〬༎🐰❉‌‌্᭄...꧂", threadID);
      };
 
-    if ((event.body.toLowerCase() == "😜😜")) {return api.sendMessage("꧁•🦋✨🍁❉‌‌্᭄...─┼\n〘Gʌɳ̊͢ɗɣ ɪ̽𝗌ɧɑ̽ɽɘ ɳɑ̽ 𝗌ʌɱɘɘɽ ßɑ̽ßu ƙσ ßʌʈ̊ɑ̽ Ɗ𝞄⃕ɳGɪ̽〙\n💚⟶‌‌𓆩〭〬༎🐰❉‌‌্᭄...꧂", threadID);
+    if ((event.body.toLowerCase() == "😜😜")) {return api.sendMessage("꧁•🦋✨🍁❉‌‌্᭄...─┼\n〘Gʌɳ̊͢ɗɣ ɪ̽𝗌ɧɑ̽ɽɘ ɳɑ̽ ƙʌr᩶o 𝗌ʌɱɘɘɽ ßɑ̽ßu ƙσ ßʌʈ̊ɑ̽ Ɗ𝞄⃕ɳGɪ̽〙\n💚⟶‌‌𓆩〭〬༎🐰❉‌‌্᭄...꧂", threadID);
      };
 
   if ((event.body.toLowerCase() == "❤️❤️")) {return api.sendMessage("꧁•🦋✨🍁❉‌‌্᭄...─┼\n〘ɣɚ Ɗi͠ɭ ŋ͢ɒ ßӈɛ̈ʝɑ̽ kɑ̽r᩶ɵ̥̽ ɣɑ̽ɽ ɱʊ͛ʝɧɛ̈ Sɑ̽r᩶ɑ̽ɱ ʌ†ɪ̽ ɣɑ̽r᩶〙\n💚⟶‌‌𓆩〭〬༎🐰❉‌‌্᭄...꧂", threadID);
@@ -353,7 +353,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
   if ((event.body.toLowerCase() == "🥰🥰")) {return api.sendMessage("🦋🌿Aƞƙɧ❍ Ɱɛ Ƥɣɑɽ͢  Ɗɪɭɱɛ Ƙɧuɱɑɽ🌬️🌍 ••Ƥɣɑɽ Ƭ❍ɧ Ƞɧɪ Ƙɒɽ ɭɪɣɑ Ɱuȷɧʂɛ>³••🕊️🍎😍", threadID);
      };
 
-    if ((event.body.toLowerCase() == "😁")) {return api.sendMessage("꧁•🦋✨🍁❉‌‌্᭄...─┼\n〘i͠n᪵᪳n᪵᪳ıı ӈʌʂʂıı Q ɪ̽ʂʂ ɧʌ𝗌𝗌ɪ̽ Kɛ̈ p᩶ɛ̈ɛ̈c̬̽ɧɘ ɽ͢ʌʌʝ  ʜɛ̈ ɧɑ̽ɱɘ ßɧɪ̽ ßʌ†ʌɵ̥̽〙\n💚⟶‌‌𓆩〭〬༎🐰❉‌‌্᭄...꧂", threadID);
+    if ((event.body.toLowerCase() == "😁")) {return api.sendMessage("꧁•🦋✨🍁❉‌‌্᭄...─┼\n〘ɪ̽ƞƞɪ̽ ɧʌ𝗌𝗌ɪ̽ Q ʌr᩶ʌɧɪ ӈɘ ɪ̽𝗌𝗌 ɧʌ𝗌ɪ̽ ƙɘ Ƥɘɘc̬̽ɧɘ ɽʌʌʝ ƙi͠ɣʌ ɧɘ〙\n💚⟶‌‌𓆩〭〬༎🐰❉‌‌্᭄...꧂", threadID);
      };
 
     if ((event.body.toLowerCase() == "🫣")) {return api.sendMessage("꧁•🦋✨🍁❉‌‌্᭄...─┼\n〘𝗌ʌr᩶ɱʌʌσ ɱɑ̽† ɑ̽p᩶ɳɑ̽ ɧıı Gɧɑ̽ɽ 𝗌ɑ̽ɱʝɧ❍ ɱɘɽi͠ ʝɑ̽ɑ̽ŋ͢〙\n💚⟶‌‌𓆩〭〬༎🐰❉‌‌্᭄...꧂", threadID);
