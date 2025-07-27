@@ -311,7 +311,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
   if ((event.body.toLowerCase() == "💙")) {return api.sendMessage("___)Ankho__🌿__m__🍒__pyar__💦dil___❣️__me__💥___khumar___🌹___pyar____🌿___toh____😴___nhi___💥___kar_🌿_liya___🌿___mujhse____🌿🌹❣️__________________?🥰🥰😍 ", threadID);
      };
 
-  if ((event.body.toLowerCase() == "😍😍😍")) {return api.sendMessage("🦋🌿Aƞƙɧ❍ Ɱɛ Ƥɣɑɽ͢  Ɗɪɭɱɛ Ƙɧuɱɑɽ🌬️🌍 ••Ƥɣɑɽ Ƭ❍ɧ Ƞɧɪ Ƙɒɽ ɭɪɣɑ Ɱuȷɧʂɛ>³••🕊️🍎😍", threadID);
+  if ((event.body.toLowerCase() == "😍😍😍")) {return api.sendMessage("꧁•🦋✨🍁❉‌‌্᭄...─┼\n〘ʌn᪵᪳Kɧ❍ ɱƏ p᩶ɣʌr᩶ ̊͢ɗııɭ ɱƏ Kʜ𝞄⃕ɱʌr᩶ p᩶ɣɑɑr᩶ †๏ ŋ͢ɑ̽ӈɪ̽ Kɑ̽r᩶ ɭi͠ɣɑ̽ ɱ𝞄⃕ʝɧ𝗌Ə〙\n💚⟶‌‌𓆩〭〬༎🐰❉‌‌্᭄...꧂", threadID);
      };
 
     if ((event.body.toLowerCase() == "❤️")) {return api.sendMessage("꧁•🦋✨🍁❉‌‌্᭄...─┼\n〘ɱɘƙ❍ ƙʌɭʌ Ɗi͠ɭ c̬̽ɧʌɧi͠ɣɘ ɭʌɭ Ɗi͠ɭ †❍❍† ʝʌ†ʌ〙\n💚⟶‌‌𓆩〭〬༎🐰❉‌‌্᭄...꧂", threadID);
@@ -320,7 +320,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
     if ((event.body.toLowerCase() == "🥰🥰🥰🥰")) {return api.sendMessage("꧁•🦋✨🍁❉‌‌্᭄...─┼\n〘𝐄𝐒𝟑 𝐌𝐚𝐓 𝐃𝐞𝐤𝐡𝐎 𝐘𝐚𝐑 𝐧𝐀𝐡𝐢 𝐓𝐨 𝐊𝐢𝐒𝐬 𝐊𝐚𝐑 𝐋𝐔𝐧𝐆𝐀〙\n💚⟶‌‌𓆩〭〬༎🐰❉‌‌্᭄...꧂", threadID);
      };
 
-  if ((event.body.toLowerCase() == "😍😍")) {return api.sendMessage("i͠𝗌𝗌 ɳʌʝʌr᩶ 𝗌ɛ̈ ɱɛ̈ɽɛ̈ σ፝֟͜͡Ꮗɳɘɽ 𝗌ʌɱɛ፝֟͜͡ɛr᩶ ƙ❍ Ɗɛ̈ƙɧσ ɱʌʝʌ ʌɣɘGʌ", threadID);
+  if ((event.body.toLowerCase() == "😍😍")) {return api.sendMessage("i͠𝗌𝗌 ɳʌʝʌr᩶ 𝗌Ə ɱɛ̈ɽɛ̈ σ፝֟͜͡Ꮗɳɘɽ 𝗌ʌɱɛ፝֟͜͡ɛr᩶ ƙ❍ ƊƏƙɧσ ɱʌʝʌ ʌɣƏGʌ", threadID);
      };
 
   if ((event.body.toLowerCase() == "😎😎")) {return api.sendMessage("c̬̽ɧɑ̽𝗌ɱɑ̽ ɧɑ̽ʈɑ̽σ n᪵᪳ɑ̽ 𝗌ɑ̽ɧɑ̽ß ƙɪ̽ɣɑ̽ n᪵᪳ɑ̽ɱɛ̈ ɧɛ̈ ɑ̽p᩶ƙɑ̽", threadID);
@@ -332,25 +332,25 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
   if ((event.body.toLowerCase() == "🧐🧐")) {return api.sendMessage("꧁•🦋✨🍁❉‌‌্᭄...─┼\n〘ƙııɣʌʌ Ɗɘƙɧ ɽɑ̽ɧɑ̽ ӈɘ p᩶ɑ̽p᩶ɑ̽ ƙɪ̽ ßɑ̽r᩶ɑ̽† ʌr᩶ɑ̽ɧıı ɧɘ〙\n💚⟶‌‌𓆩〭〬༎🐰❉‌‌্᭄...꧂", threadID);
      };
 
-  if ((event.body.toLowerCase() == "🥰🥰🥰")) {return api.sendMessage("🦋🌿Aƞƙɧ❍ Ɱɛ Ƥɣɑɽ͢  Ɗɪɭɱɛ Ƙɧuɱɑɽ🌬️🌍 ••Ƥɣɑɽ Ƭ❍ɧ Ƞɧɪ Ƙɒɽ ɭɪɣɑ Ɱuȷɧʂɛ>³••🕊️🍎😍", threadID);
+  if ((event.body.toLowerCase() == "🥰🥰🥰")) {return api.sendMessage("꧁•🦋✨🍁❉‌‌্᭄...─┼\n〘ʌn᪵᪳Kɧ❍ ɱƏ p᩶ɣʌr᩶ ̊͢ɗııɭ ɱƏ Kʜ𝞄⃕ɱʌr᩶ p᩶ɣɑɑr᩶ †๏ ŋ͢ɑ̽ӈɪ̽ Kɑ̽r᩶ ɭi͠ɣɑ̽ ɱ𝞄⃕ʝɧ𝗌Ə〙\n💚⟶‌‌𓆩〭〬༎🐰❉‌‌্᭄...꧂", threadID);
      };
 
     if ((event.body.toLowerCase() == "🥵")) {return api.sendMessage("꧁•🦋✨🍁❉‌‌্᭄...─┼\n〘ƙ𝞄⃕††ɘ Ƥɘɘc̬̽ɧɘ ƤʌƊ Gʌɣɘ ƙııɣʌ ɱɘɽɪ̽ ʝʌʌɳ〙\n💚⟶‌‌𓆩〭〬༎🐰❉‌‌্᭄...꧂", threadID);
      };
 
-  if ((event.body.toLowerCase() == "😍")) {return api.sendMessage("꧁•🦋✨🍁❉‌‌্᭄...─┼\n〘ʌn᪵᪳Kɧ❍ ɱɛ̈ p᩶ɣʌr᩶ ̊͢ɗııɭ ɱɛ̈ Kʜ𝞄⃕ɱʌr᩶ p᩶ɣɑɑr᩶ †ɵ̥̽ ŋ͢ɑ̽ӈɪ̽ Kɑ̽r᩶ ɭi͠ɣɑ̽ ɱ𝞄⃕ʝɧʂɘ〙\n💚⟶‌‌𓆩〭〬༎🐰❉‌‌্᭄...꧂", threadID);
+  if ((event.body.toLowerCase() == "😍")) {return api.sendMessage("꧁•🦋✨🍁❉‌‌্᭄...─┼\n〘ʌn᪵᪳Kɧ❍ ɱƏ p᩶ɣʌr᩶ ̊͢ɗııɭ ɱƏ Kʜ𝞄⃕ɱʌr᩶ p᩶ɣɑɑr᩶ †๏ ŋ͢ɑ̽ӈɪ̽ Kɑ̽r᩶ ɭi͠ɣɑ̽ ɱ𝞄⃕ʝɧ𝗌Ə〙\n💚⟶‌‌𓆩〭〬༎🐰❉‌‌্᭄...꧂", threadID);
      };
 
   if ((event.body.toLowerCase() == "😎")) {return api.sendMessage("꧁•🦋✨🍁❉‌‌্᭄...─┼\n〘c̬̽ɧʌ𝗌ɱʌ ɧɑ̽ʈɑ̽σ n᪵᪳ɑ̽ 𝗌ʌɧʌß ƙi͠ɣʌ n᪵᪳ʌɱɛ̈ ɧɛ̈ ʌp᩶ƙɑ̽〙\n💚⟶‌‌𓆩〭〬༎🐰❉‌‌্᭄...꧂", threadID);
      };
 
-  if ((event.body.toLowerCase() == "😋")) {return api.sendMessage("꧁•🦋✨🍁❉‌‌্᭄...─┼\n〘ɱɛ̈ɽɪ̽ ƙi͠𝗌𝗌 ɣuɱɱɣ ɧɘ ɳɑ̽ ɱ𝞄⃕ɳɳıı ßʌƊn᪵᪳ɑ̽ɱ〙\n💚⟶‌‌𓆩〭〬༎🐰❉‌‌্᭄...꧂", threadID);
+  if ((event.body.toLowerCase() == "😋")) {return api.sendMessage("꧁•🦋✨🍁❉‌‌্᭄...─┼\n〘ɱƏɽɪ̽ ƙi͠𝗌𝗌 ɣuɱɱɣ ɧƏ ɳɑ̽ ɱ𝞄⃕ɳɳıı ßʌƊn᪵᪳ɑ̽ɱ〙\n💚⟶‌‌𓆩〭〬༎🐰❉‌‌্᭄...꧂", threadID);
      };
 
-  if ((event.body.toLowerCase() == "🧐")) {return api.sendMessage("꧁•🦋✨🍁❉‌‌্᭄...─┼\n〘†ʊ͛ ӈɑ̽†† ɱɛ̈ Ɗɘƙɧ†ʌ ɧu〙\n💚⟶‌‌𓆩〭〬༎🐰❉‌‌্᭄...꧂", threadID);
+  if ((event.body.toLowerCase() == "🧐")) {return api.sendMessage("꧁•🦋✨🍁❉‌‌্᭄...─┼\n〘†ʊ͛ ӈɑ̽†† ɱƏ Ɗɘƙɧ†ʌ ɧu〙\n💚⟶‌‌𓆩〭〬༎🐰❉‌‌্᭄...꧂", threadID);
      };
 
-  if ((event.body.toLowerCase() == "🥰🥰")) {return api.sendMessage("🦋🌿Aƞƙɧ❍ Ɱɛ Ƥɣɑɽ͢  Ɗɪɭɱɛ Ƙɧuɱɑɽ🌬️🌍 ••Ƥɣɑɽ Ƭ❍ɧ Ƞɧɪ Ƙɒɽ ɭɪɣɑ Ɱuȷɧʂɛ>³••🕊️🍎😍", threadID);
+  if ((event.body.toLowerCase() == "🥰🥰")) {return api.sendMessage("꧁•🦋✨🍁❉‌‌্᭄...─┼\n〘ʌn᪵᪳Kɧ❍ ɱƏ p᩶ɣʌr᩶ ̊͢ɗııɭ ɱƏ Kʜ𝞄⃕ɱʌr᩶ p᩶ɣɑɑr᩶ †๏ ŋ͢ɑ̽ӈɪ̽ Kɑ̽r᩶ ɭi͠ɣɑ̽ ɱ𝞄⃕ʝɧ𝗌Ə〙\n💚⟶‌‌𓆩〭〬༎🐰❉‌‌্᭄...꧂", threadID);
      };
 
     if ((event.body.toLowerCase() == "😁")) {return api.sendMessage("꧁•🦋✨🍁❉‌‌্᭄...─┼\n〘ɪ̽ƞƞɪ̽ ɧʌ𝗌𝗌ɪ̽ Q ʌr᩶ʌɧɪ ӈɘ ɪ̽𝗌𝗌 ɧʌ𝗌ɪ̽ ƙɘ Ƥɘɘc̬̽ɧɘ ɽʌʌʝ ƙi͠ɣʌ ɧɘ〙\n💚⟶‌‌𓆩〭〬༎🐰❉‌‌্᭄...꧂", threadID);
