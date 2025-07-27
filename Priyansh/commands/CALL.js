@@ -1,6 +1,6 @@
 const fs = require("fs");
 module.exports.config = {
-  name: "call",
+  name: "call2",
     version: "2.1.1",
   hasPermssion: 0,
   credits: "PRINCE RAJPUT", 
