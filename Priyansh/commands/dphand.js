@@ -4,7 +4,7 @@ module.exports.config = {
     hasPermssion: 0,
     credits: "satish",
     description: "profile dp",
-    commandCategory: "img",
+    commandCategory: "img1",
     usages: "[@mention]",
     cooldowns: 5,
     dependencies: {
