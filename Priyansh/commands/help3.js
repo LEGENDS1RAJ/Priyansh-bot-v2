@@ -34,9 +34,9 @@ module.exports.run = async function ({ api, event, args }) {
         message += "╰───────────⧕\n\n";
     }
     
-    message += `╭────────────✦\n│ »      ☆𝐴𝑎𝑟𝑦𝑎𝑛 𝐵𝑜𝑡☆ 
+    message += `╭────────────✦\n│ »      ☆𝑆𝑎𝑚𝑒𝑒𝑟 𝐵𝑜𝑡☆ 
     《${commands.size} commands》 
-    𝓬𝓻𝓮𝓭𝓲𝓽 ● 𝓜𝓻.☆𝓐𝓪𝓻𝔂𝓪𝓷\n│ » 《𝐀𝐀𝐑𝐘𝐀𝐍 𝐏𝐑𝐎𝐉𝐄𝐂𝐓》\n𝓯𝓮𝓮𝓵 𝓽𝓱𝓮 𝓹𝓸𝔀𝓮𝓻 𝓸𝓯 𝓜𝓻.𝓐𝓪𝓻𝔂𝓪𝓷\n╰────────────✦`;
+    𝓬𝓻𝓮𝓭𝓲𝓽 ● 𝓜𝓻.☆𝒮𝒶𝓂ℯℯ𝓇\n│ » 《𝐒𝐀𝐌𝐄𝐄𝐑 𝐏𝐑𝐎𝐉𝐄𝐂𝐓》\n𝓯𝓮𝓮𝓵 𝓽𝓱𝓮 𝓹𝓸𝔀𝓮𝓻 𝓸𝓯 𝓜𝓻.𝓢𝓪𝓶𝓮𝓮𝓻\n╰────────────✦`;
     
     return api.sendMessage(message, threadID, (error, info) => {
         if (error) console.log(error);
