@@ -14,7 +14,7 @@ module.exports.handleEvent = async ({ api, event, Users, Currencies, args, utils
   var { threadID, messageID } = event;
   let react = event.body.toLowerCase();
   if(react.includes("owner") ||
-     react.includes("Owner") || react.includes("समीर") || react.includes("sameer") || react.includes("tera malik") ||
+     react.includes("Owner") || react.includes("समीर") || react.includes("malik") || react.includes("tera malik") ||
 react.includes("info") || react.includes("Boss")) {
     var msg = {
         body: `${name} ये लो ऑनर इंफॉर्मेशन 👈
