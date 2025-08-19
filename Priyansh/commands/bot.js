@@ -556,11 +556,11 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
        ◄───╬❆😈❅╬───► \n\n
           ${rand} 🎻♡💋⪼🤣🍁❤
 
-𐄪༆🦋ﮩ٨ﮩ٨ـ😻🎻♡🌿😘ﮩ٨ﮩ٨ـ🦋༆𐄪,
+𐄪༆🦋ﮩ٨ـ⚜️🍁♡😘⚜️ﮩ٨ـ🦋༆𐄪,
                                         
  *★᭄𝗢𝘄𝗻𝗲𝗿 ཫ༄𒁍≛⃝❦ ════ •⊰𝐒𝐀𝐌𝐄𝐄𝐑⊱• ════ ❦🍀🍒 ❥||ㅎ
 
-𐄪༆🦋ﮩ٨ﮩ٨ـ😻🎻♡🌿😘ﮩ٨ﮩ٨ـ🦋༆𐄪`
+𐄪༆🦋ﮩ٨ـ⚜️🍁♡😘⚜️ﮩ٨ـ🦋༆𐄪`
   }
   return api.sendMessage(msg, threadID, messageID);
 };
