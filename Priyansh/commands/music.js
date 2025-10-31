@@ -47,7 +47,7 @@ function getVideoID(url) {
 }
 
 const config = {
-    name: "song",
+    name: "music",
     author: "Amit Max ⚡ | D1PT0",
     version: "1.2.0",
     role: 0,
